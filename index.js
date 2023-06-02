@@ -17,13 +17,9 @@ app.use(
   cors({
     origin: process.env.CLIENT_URL,
     credentials: true,
+    methods: ['GET', 'POST', 'DELETE', 'UPDATE', 'PUT', 'PATCH'],
   })
 );
-app.use(function (req, res, next) {
-  res.setHeader('Access-Control-Allow-Origin', '*');
-  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-  next();
-});
 app.use('/api', router);
 app.use(errorMiddleware);
 
