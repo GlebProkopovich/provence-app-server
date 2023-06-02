@@ -1,0 +1,618 @@
+[
+  {
+    "id": "64746ceabd818225d923e496",
+    "imgSrc": "https://i.ibb.co/N6P7RFZ/image.jpg",
+    "altImg": "Cottage cheese pancakes",
+    "title": "Cottage cheese pancakes",
+    "price": "15 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e497",
+    "imgSrc": "https://i.ibb.co/NmwfzSN/image.jpg",
+    "altImg": "Omelet",
+    "title": "Omelet",
+    "price": "10 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e498",
+    "imgSrc": "https://i.ibb.co/nLsm993/image.jpg",
+    "altImg": "Cheddar waffles with cottage, becon and egg",
+    "title": "Cheddar waffles with cottage, becon and egg",
+    "price": "21 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e499",
+    "imgSrc": "https://i.ibb.co/rZDJM5c/image.jpg",
+    "altImg": "Shakshuka",
+    "title": "Shakshuka",
+    "price": "18 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e49a",
+    "imgSrc": "https://i.ibb.co/1Q7vpHV/image.jpg",
+    "altImg": "Oat pancake with cheese, bananas and berries",
+    "title": "Oat pancake with cheese, bananas and berries",
+    "price": "14 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e49b",
+    "imgSrc": "https://i.ibb.co/LpLygt6/image.jpg",
+    "altImg": "Oat pancake with chicken and cheese",
+    "title": "Oat pancake with chicken and cheese",
+    "price": "18 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e49c",
+    "imgSrc": "https://i.ibb.co/1KqgDFY/image.jpg",
+    "altImg": "American pancakes",
+    "title": "American pancakes",
+    "price": "11 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "64746ceabd818225d923e49d",
+    "imgSrc": "https://i.ibb.co/DL5KNX2/image.jpg",
+    "altImg": "Oatmeal",
+    "title": "Oatmeal",
+    "price": "8 ₾",
+    "headline": "breakfasts",
+    "category": "breakfasts"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d39",
+    "imgSrc": "https://i.ibb.co/9v8mf18/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissant with gem and butter",
+    "title": "Croissant with gem and butter",
+    "category": "croissants",
+    "price": "11 ₾"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d3a",
+    "imgSrc": "https://i.ibb.co/fNC43kS/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissant with salmon",
+    "title": "Croissant with salmon",
+    "category": "croissants",
+
+    "price": "12 ₾"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d3b",
+    "imgSrc": "https://i.ibb.co/M2zbtmY/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissant with chicken",
+    "title": "Croissant with chicken",
+    "category": "croissants",
+
+    "price": "11 ₾"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d3c",
+    "imgSrc": "https://i.ibb.co/SRVFb9h/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissants with custard",
+    "title": "Croissants with custard",
+    "category": "croissants",
+
+    "price": "11 ₾"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d3d",
+    "imgSrc": "https://i.ibb.co/GMptPZy/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissant with ham and cheese",
+    "title": "Croissant with ham and cheese",
+    "category": "croissants",
+
+    "price": "9 ₾"
+  },
+  {
+    "id": "645a7383e544bc0a33e17d3e",
+    "imgSrc": "https://i.ibb.co/7RnXKxc/image.jpg",
+    "headline": "Croissants",
+    "altImg": "Croissant",
+    "title": "Croissant",
+    "category": "croissants",
+    "price": "3,5 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0e2",
+    "imgSrc": "https://i.ibb.co/FJ2P3jh/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Penne with chicken fillet and mushrooms in a creamy sauce",
+    "title": "Penne with chicken fillet and mushrooms in a creamy sauce",
+    "category": "maindishes",
+    "price": "21 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0de",
+    "imgSrc": "https://i.ibb.co/rFfbqkv/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Chicken fillet with grilled vegetables",
+    "title": "Chicken fillet with grilled vegetables",
+    "category": "maindishes",
+    "price": "19 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0d9",
+    "imgSrc": "https://i.ibb.co/p46591w/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Beef stroganoff with mashed potatoes",
+    "title": "Beef stroganoff with mashed potatoes",
+    "category": "maindishes",
+    "price": "20 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0db",
+    "imgSrc": "https://i.ibb.co/pPxCK5Y/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Mexican potatoes",
+    "title": "Mexican potatoes",
+    "category": "maindishes",
+    "price": "10 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0da",
+    "imgSrc": "https://i.ibb.co/g3ttXQC/8.jpg",
+    "headline": "Main dishes",
+    "altImg": "Hashbrown with mushroom sauce",
+    "title": "Hashbrown with mushroom sauce",
+    "category": "maindishes",
+    "price": "16 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0df",
+    "imgSrc": "https://i.ibb.co/6Wg1YNt/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Bolognese pasta",
+    "title": "Bolognese pasta",
+    "category": "maindishes",
+    "price": "15 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0dd",
+    "imgSrc": "https://i.ibb.co/YQZZkLk/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Chicken wings",
+    "title": "Chicken wings",
+    "category": "maindishes",
+    "price": "25 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0e3",
+    "imgSrc": "https://i.ibb.co/NjsWy5n/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Pasta with seafood",
+    "title": "Pasta with seafood",
+    "category": "maindishes",
+    "price": "28 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0e1",
+    "imgSrc": "https://i.ibb.co/f1nVgwJ/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Salmon steak in sesame with Thai salad",
+    "title": "Salmon steak in sesame with Thai salad",
+    "category": "maindishes",
+    "price": "34 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0dc",
+    "imgSrc": "https://i.ibb.co/tQmghKh/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Chicken cutlet with fries",
+    "title": "Chicken cutlet with fries",
+    "category": "maindishes",
+    "price": "16 ₾"
+  },
+  {
+    "id": "6458e8263f93a41fba4cf0e0",
+    "imgSrc": "https://i.ibb.co/1fTcwP2/image.jpg",
+    "headline": "Main dishes",
+    "altImg": "Carbonara paste",
+    "title": "Carbonara paste",
+    "category": "maindishes",
+    "price": "23 ₾"
+  },
+  {
+    "id": "645a61dd2b1cd05ea2f2f685",
+    "imgSrc": "https://i.ibb.co/cN42sFf/image.jpg",
+    "headline": "Sweet waffles",
+    "altImg": "Waffles with ice cream and chocolate",
+    "title": "Waffles with ice cream and chocolate",
+    "category": "sweetwaffles",
+    "price": "10 ₾"
+  },
+  {
+    "id": "645a61dd2b1cd05ea2f2f686",
+    "imgSrc": "https://i.ibb.co/dWLJQCz/image.jpg",
+    "headline": "Sweet waffles",
+    "altImg": "Waffles with custard and berries",
+    "title": "Waffles with custard and berries",
+    "category": "sweetwaffles",
+    "price": "10 ₾"
+  },
+  {
+    "id": "645a61dd2b1cd05ea2f2f687",
+    "imgSrc": "https://i.ibb.co/QvM151v/image.jpg",
+    "headline": "Sweet waffles",
+    "altImg": "Waffles with bananas & chocolate pasta",
+    "title": "Waffles with bananas & chocolate pasta",
+    "category": "sweetwaffles",
+    "price": "13 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf179c",
+    "imgSrc": "https://i.ibb.co/x64gXdJ/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Waffle sandwich with scramble, mushrooms",
+    "title": "Waffle sandwich with scramble, mushrooms",
+    "category": "wafflesandwiches",
+    "price": "17 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf179d",
+    "imgSrc": "https://i.ibb.co/w0nJTNd/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Waffle sandwich with grilled vegetables",
+    "title": "Waffle sandwich with grilled vegetables",
+    "category": "wafflesandwiches",
+    "price": "12 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf179e",
+    "imgSrc": "https://i.ibb.co/HKZJsgb/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Salmon Waffle Sandwich",
+    "title": "Salmon Waffle Sandwich",
+    "category": "wafflesandwiches",
+    "price": "17 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf179f",
+    "imgSrc": "https://i.ibb.co/x64gXdJ/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Waffle sandwich with scramble, mushrooms",
+    "title": "Waffle sandwich with scramble, mushrooms",
+    "category": "wafflesandwiches",
+    "price": "17 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf17a0",
+    "imgSrc": "https://i.ibb.co/r0sCxbc/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Waffle sandwich with chicken, egg and cheese",
+    "title": "Waffle sandwich with chicken, egg and cheese",
+    "category": "wafflesandwiches",
+    "price": "16 ₾"
+  },
+  {
+    "id": "645a81ef9e2bb883ecaf17a1",
+    "imgSrc": "https://i.ibb.co/3vsJ35m/image.jpg",
+    "headline": "Waffle-sandwiches",
+    "altImg": "Waffle sandwich with ham and cheese",
+    "title": "Waffle sandwich with ham and cheese",
+    "category": "wafflesandwiches",
+    "price": "15 ₾"
+  },
+  {
+    "id": "6474745c88821ade84f9cdc9",
+    "imgSrc": "https://i.ibb.co/85TWFy4/image.jpg",
+    "altImg": "Chicken Waffle Burger",
+    "title": "Chicken Waffle Burger",
+    "price": "22 ₾",
+    "headline": "waffle-burgers",
+    "category": "waffle-burgers"
+  },
+  {
+    "id": "6474745c88821ade84f9cdca",
+    "imgSrc": "https://i.ibb.co/z5qtsG0/image.jpg",
+    "altImg": "Waffle Burger Veggie",
+    "title": "Waffle Burger Veggie",
+    "price": "16 ₾",
+    "headline": "waffle-burgers",
+    "category": "waffle-burgers"
+  },
+  {
+    "id": "64747b72ee24f207050ed1aa",
+    "imgSrc": "https://i.ibb.co/PhtvcQ1/9-5.jpg",
+    "altImg": "Crepe with fruit and nutella",
+    "title": "Crepe with fruit and nutella",
+    "price": "13 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1ab",
+    "imgSrc": "https://i.ibb.co/MfkWvkw/8.jpg",
+    "altImg": "Crepe with cottage cheese and orange zest",
+    "title": "Crepe with cottage cheese and orange zest",
+    "price": "11 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1ac",
+    "imgSrc": "https://i.ibb.co/bgHS9mK/9.jpg",
+    "altImg": "Crepes with banana",
+    "title": "Crepes with banana",
+    "price": "14 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1ad",
+    "imgSrc": "https://i.ibb.co/ccVf7sD/10.jpg",
+    "altImg": "Crepes with meat",
+    "title": "Crepes with meat",
+    "price": "14 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1ae",
+    "imgSrc": "https://i.ibb.co/F0Xp4DN/image.jpg",
+    "altImg": "Crepe with salmon and cottage cheese",
+    "title": "Crepe with salmon and cottage cheese",
+    "price": "17 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1af",
+    "imgSrc": "https://i.ibb.co/QnsQJXK/image.jpg",
+    "altImg": "Crepe with chicken salad, omelette and aioli sauce",
+    "title": "Crepe with chicken salad, omelette and aioli sauce",
+    "price": "15 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1b0",
+    "imgSrc": "https://i.ibb.co/tsBvSKr/image.jpg",
+    "altImg": "Crepe with mashed potatoes, mushrooms and sour cream",
+    "title": "Crepe with mashed potatoes, mushrooms and sour cream",
+    "price": "12 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1b1",
+    "imgSrc": "https://i.ibb.co/4YwLKXZ/image.jpg",
+    "altImg": "Crepes with mushrooms, egg, mozzarella and ranch sauce",
+    "title": "Crepes with mushrooms, egg, mozzarella and ranch sauce",
+    "price": "13 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1b2",
+    "imgSrc": "https://i.ibb.co/47mtKXs/image.jpg",
+    "altImg": "Crepes with ham, cheese and ranch sauce",
+    "title": "Crepes with ham, cheese and ranch sauce",
+    "price": "12 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "64747b72ee24f207050ed1b3",
+    "imgSrc": "https://i.ibb.co/7b2c9Vx/image.jpg",
+    "altImg": "Crepe with bacon, egg, parmesan and aioli sauce",
+    "title": "Crepe with bacon, egg, parmesan and aioli sauce",
+    "price": "15 ₾",
+    "headline": "crepes with fillings",
+    "category": "crepes with fillings"
+  },
+  {
+    "id": "647480cb4fc0426e93b1e185",
+    "imgSrc": "https://i.ibb.co/6rtYLq3/image.jpg",
+    "altImg": "Vichoise",
+    "title": "Vichoise",
+    "price": "12 ₾",
+    "headline": "soups",
+    "category": "soups"
+  },
+  {
+    "id": "647480cb4fc0426e93b1e186",
+    "imgSrc": "https://i.ibb.co/fHxJDZD/7.jpg",
+    "altImg": "Mushroom cream soup",
+    "title": "Mushroom cream soup",
+    "price": "15 ₾",
+    "headline": "soups",
+    "category": "soups"
+  },
+  {
+    "id": "647480cb4fc0426e93b1e187",
+    "imgSrc": "https://i.ibb.co/ydq0Qpy/5.jpg",
+    "altImg": "Chicken soup",
+    "title": "Chicken soup",
+    "price": "9 ₾",
+    "headline": "soups",
+    "category": "soups"
+  },
+  {
+    "id": "647480cb4fc0426e93b1e188",
+    "imgSrc": "https://i.ibb.co/fGk91SF/6.jpg",
+    "altImg": "Pumpkin Cream Soup",
+    "title": "Pumpkin Cream Soup",
+    "price": "14 ₾",
+    "headline": "soups",
+    "category": "soups"
+  },
+  {
+    "id": "647483b42635e002f9a9a566",
+    "imgSrc": "https://i.ibb.co/d45DySg/15.png",
+    "altImg": "Caesar with chicken",
+    "title": "Caesar with chicken",
+    "price": "20 ₾",
+    "headline": "salads",
+    "category": "salads"
+  },
+  {
+    "id": "647483b42635e002f9a9a567",
+    "imgSrc": "https://i.ibb.co/9n658WT/20.jpg",
+    "altImg": "Caesar salad with shrimps",
+    "title": "Caesar salad with shrimps",
+    "price": "27 ₾",
+    "headline": "salads",
+    "category": "salads"
+  },
+  {
+    "id": "647483b42635e002f9a9a568",
+    "imgSrc": "https://i.ibb.co/tDPd9dV/6.jpg",
+    "altImg": "Cucumber and tomato salad with nuts",
+    "title": "Cucumber and tomato salad with nuts",
+    "price": "11 ₾",
+    "headline": "salads",
+    "category": "salads"
+  },
+  {
+    "id": "647483b42635e002f9a9a569",
+    "imgSrc": "https://i.ibb.co/DfqGXny/11.jpg",
+    "altImg": "Greek salad",
+    "title": "Greek salad",
+    "price": "14 ₾",
+    "headline": "salads",
+    "category": "salads"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1e7",
+    "imgSrc": "https://i.ibb.co/3T67r2v/image.jpg",
+    "altImg": "Pizza with mushrooms",
+    "title": "Pizza with mushrooms",
+    "price": "20 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1e8",
+    "imgSrc": "https://i.ibb.co/Tr0C69C/1.jpg",
+    "altImg": "Pizza with chicken",
+    "title": "Pizza with chicken",
+    "price": "21 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1e9",
+    "imgSrc": "https://i.ibb.co/r3k8p6S/image.jpg",
+    "altImg": "Pizza Margarita",
+    "title": "Pizza Margarita",
+    "price": "14 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1ea",
+    "imgSrc": "https://i.ibb.co/4gPXkX7/image.jpg",
+    "altImg": "Pepperoni pizza",
+    "title": "Pepperoni pizza",
+    "price": "22 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1eb",
+    "imgSrc": "https://i.ibb.co/w0BLCw5/1.jpg",
+    "altImg": "Pizza Bolognese",
+    "title": "Pizza Bolognese",
+    "price": "19 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "647489096cdfcb1f8721f1ec",
+    "imgSrc": "https://i.ibb.co/J3K3Gy7/image.jpg",
+    "altImg": "Pizza Four cheeses",
+    "title": "Pizza Four cheeses",
+    "price": "22 ₾",
+    "headline": "pizzas",
+    "category": "pizzas"
+  },
+  {
+    "id": "64748e1b50d1b5cb3da4bff1",
+    "imgSrc": "https://i.ibb.co/0DPPHyH/10.jpg",
+    "altImg": "Chkmeruli",
+    "title": "Chkmeruli",
+    "price": "20 ₾",
+    "headline": "georgian dishes",
+    "category": "georgian dishes"
+  },
+  {
+    "id": "64748e1b50d1b5cb3da4bff2",
+    "imgSrc": "https://i.ibb.co/wSXmfND/10.jpg",
+    "altImg": "Ojakhuri",
+    "title": "Ojakhuri",
+    "price": "15 ₾",
+    "headline": "georgian dishes",
+    "category": "georgian dishes"
+  },
+  {
+    "id": "64748e1b50d1b5cb3da4bff3",
+    "imgSrc": "https://i.ibb.co/31JVPwV/image.jpg",
+    "altImg": "Imeretian khachapuri",
+    "title": "Imeretian khachapuri",
+    "price": "20 ₾",
+    "headline": "georgian dishes",
+    "category": "georgian dishes"
+  },
+  {
+    "id": "64748e1b50d1b5cb3da4bff4",
+    "imgSrc": "https://i.ibb.co/m9SQJ8K/14.jpg",
+    "altImg": "Megrelian khachapuri",
+    "title": "Megrelian khachapuri",
+    "price": "28 ₾",
+    "headline": "georgian dishes",
+    "category": "georgian dishes"
+  },
+  {
+    "id": "6474918feca6de8df0b967fe",
+    "imgSrc": "https://i.ibb.co/QCBdvCH/image.jpg",
+    "altImg": "Honey cake",
+    "title": "Honey cake",
+    "price": "8 ₾",
+    "headline": "desserts",
+    "category": "desserts"
+  },
+  {
+    "id": "6474918feca6de8df0b967ff",
+    "imgSrc": "https://i.ibb.co/n3nsXLT/image.jpg",
+    "altImg": "Carrot cake",
+    "title": "Carrot cake",
+    "price": "9 ₾",
+    "headline": "desserts",
+    "category": "desserts"
+  },
+  {
+    "id": "6474918feca6de8df0b96800",
+    "imgSrc": "https://i.ibb.co/wSCqXMP/image.jpg",
+    "altImg": "Napoleon",
+    "title": "Napoleon",
+    "price": "9 ₾",
+    "headline": "desserts",
+    "category": "desserts"
+  },
+  {
+    "id": "6474918feca6de8df0b96801",
+    "imgSrc": "https://i.ibb.co/16kq3SR/image.jpg",
+    "altImg": "Chocolate cake",
+    "title": "Chocolate cake",
+    "price": "9 ₾",
+    "headline": "desserts",
+    "category": "desserts"
+  }
+]
