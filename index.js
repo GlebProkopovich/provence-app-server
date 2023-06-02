@@ -19,15 +19,10 @@ app.use(
     credentials: true,
   })
 );
-app.use(function (req, res, next) {
-  res.setHeader(
-    'Access-Control-Allow-Headers',
-    'Origin, X-Requested-With, Content-Type, Accept, authorization'
-  );
-  next();
-});
 app.use('/api', router);
 app.use(errorMiddleware);
+
+console.log(process.env.CLIENT_URL);
 
 const start = async () => {
   try {
